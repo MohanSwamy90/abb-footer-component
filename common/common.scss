@@ -9,7 +9,8 @@
     color: var(--secondary);
     padding: 2em 0 1em 0;
   }
-  .first-box {    
+  .first-box {  
+    width: 100%;  
     .heading {
       font-size: $font-up-2;
       font-weight: bold;
@@ -22,7 +23,7 @@
     .links {
       display: flex;
       flex-wrap: wrap;
-      justify-content: flex-end;
+      justify-content: space-between;
       ul {
         list-style: none;
         margin: 0;
