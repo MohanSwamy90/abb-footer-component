@@ -158,3 +158,22 @@
 .static-login .custom-footer {
   margin-top: 3em;
 }
+.below-footer-outlet .wrap{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    max-width: none;
+    background-color: #000;
+}
+
+.below-footer-outlet .flexbox{
+padding-top:0px;
+}
+
+.below-footer-outlet .second-box{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-size: 13px;
+    font-family: ABBvoice,Helvetica,Arial,sans-serif;
+}
